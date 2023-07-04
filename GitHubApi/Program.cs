@@ -1,3 +1,4 @@
+using GitHubApi.CachedServices;
 using Service;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,9 @@ builder.Services.AddSwaggerGen();
 //var folderPath = builder.Configuration["folderPath"];
 builder.Services.Configure<GitHubIntegrationOptions>(builder.Configuration.GetSection(nameof(GitHubIntegrationOptions)));
 builder.Services.AddGitHubIntegrations(options=>builder.Configuration.GetSection(nameof(GitHubIntegrationOptions)).Bind(options));
+builder.Services.AddMemoryCache();
+builder.Services.AddScoped<IGitHubService, GitHubService>();
+builder.Services.Decorate<IGitHubService, CachedGitHubService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

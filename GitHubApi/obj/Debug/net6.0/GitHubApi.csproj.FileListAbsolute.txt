@@ -42,3 +42,8 @@ C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\obj\Debug\n
 C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\obj\Debug\net6.0\GitHubApi.pdb
 C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\obj\Debug\net6.0\GitHubApi.genruntimeconfig.cache
 C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\obj\Debug\net6.0\ref\GitHubApi.dll
+C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Documents\פרקטיקוד 3\Practikod3\GitHubApi\bin\Debug\net6.0\Scrutor.dll
