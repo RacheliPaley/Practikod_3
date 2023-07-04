@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYnm3cUIy9xEjJFv9HAoyZOrM5Iy1L7fIkjZE85Me3CtRhQoIVIFR82us8G89j2wCRNJNTgyZbnuKMGIgWZuWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This User\\Documents\\פרקטיקוד 3\\Practikod3\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\octokit\\6.2.1\\octokit.6.2.1.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\This User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
